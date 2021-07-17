@@ -56,7 +56,7 @@ public class SysUserServiceImpl extends ServiceImpl<SysUserDao, SysUserEntity> i
 				.like(StringUtils.isNotBlank(username),"username", username)
 				.eq(createUserId != null,"create_user_id", createUserId)
 		);
-
+		System.out.println(123);
 		return new PageUtils(page);
 	}
 
