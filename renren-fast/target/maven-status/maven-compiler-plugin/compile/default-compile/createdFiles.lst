@@ -49,6 +49,7 @@ io\renren\modules\app\controller\AppRegisterController.class
 io\renren\modules\sys\service\impl\SysMenuServiceImpl.class
 io\renren\common\xss\XssHttpServletRequestWrapper.class
 io\renren\modules\sys\service\impl\SysLogServiceImpl.class
+io\renren\modules\sys\entity\SysOrderEntity.class
 io\renren\config\CorsConfig.class
 io\renren\modules\sys\dao\SysConfigDao.class
 io\renren\modules\sys\service\impl\SysConfigServiceImpl.class
@@ -56,6 +57,7 @@ io\renren\modules\app\controller\AppTestController.class
 io\renren\modules\job\service\impl\ScheduleJobLogServiceImpl.class
 io\renren\modules\sys\service\SysRoleService.class
 io\renren\common\utils\R.class
+io\renren\modules\sys\controller\SysOrderController.class
 io\renren\modules\sys\entity\SysLogEntity.class
 io\renren\modules\sys\dao\SysUserRoleDao.class
 io\renren\modules\sys\service\SysMenuService.class
@@ -97,18 +99,21 @@ io\renren\modules\sys\entity\SysConfigEntity.class
 io\renren\modules\sys\dao\SysMenuDao.class
 io\renren\modules\sys\dao\SysUserDao.class
 io\renren\modules\sys\service\impl\SysUserTokenServiceImpl.class
+io\renren\modules\sys\service\SysOrderService.class
 io\renren\common\validator\Assert.class
 io\renren\common\exception\RRExceptionHandler.class
 io\renren\modules\app\controller\AppLoginController.class
 io\renren\modules\sys\service\SysUserTokenService.class
 io\renren\modules\app\entity\UserEntity.class
 io\renren\modules\sys\controller\SysMenuController.class
+io\renren\modules\sys\dao\SysOrderDao.class
 io\renren\config\SwaggerConfig.class
 io\renren\modules\job\dao\ScheduleJobDao.class
 io\renren\common\aspect\RedisAspect.class
 io\renren\modules\sys\controller\AbstractController.class
 io\renren\modules\sys\controller\SysRoleController.class
 io\renren\common\utils\ShiroUtils.class
+io\renren\modules\sys\service\impl\SysOrderServiceImpl.class
 io\renren\modules\sys\form\PasswordForm.class
 io\renren\common\annotation\SysLog.class
 io\renren\modules\job\controller\ScheduleJobController.class

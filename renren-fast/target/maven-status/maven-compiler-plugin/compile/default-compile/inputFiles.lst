@@ -47,6 +47,7 @@ D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\dao\SysRoleDao.java
 D:\gulimall\renren-fast\src\main\java\io\renren\common\xss\XssHttpServletRequestWrapper.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\app\form\RegisterForm.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\entity\SysCaptchaEntity.java
+D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\controller\SysOrderController.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\form\SysLoginForm.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\service\impl\SysRoleMenuServiceImpl.java
 D:\gulimall\renren-fast\src\main\java\io\renren\datasource\properties\DataSourceProperties.java
@@ -77,6 +78,7 @@ D:\gulimall\renren-fast\src\main\java\io\renren\modules\app\controller\AppLoginC
 D:\gulimall\renren-fast\src\main\java\io\renren\common\utils\ShiroUtils.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\entity\SysRoleEntity.java
 D:\gulimall\renren-fast\src\main\java\io\renren\common\utils\R.java
+D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\service\impl\SysOrderServiceImpl.java
 D:\gulimall\renren-fast\src\main\java\io\renren\common\validator\group\AddGroup.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\job\service\ScheduleJobLogService.java
 D:\gulimall\renren-fast\src\main\java\io\renren\common\xss\SQLFilter.java
@@ -87,6 +89,7 @@ D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\dao\SysRoleMenuDao.j
 D:\gulimall\renren-fast\src\main\java\io\renren\config\MybatisPlusConfig.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\app\config\WebMvcConfig.java
 D:\gulimall\renren-fast\src\main\java\io\renren\config\KaptchaConfig.java
+D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\service\SysOrderService.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\job\task\ITask.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\oss\cloud\OSSFactory.java
 D:\gulimall\renren-fast\src\main\java\io\renren\RenrenApplication.java
@@ -125,7 +128,9 @@ D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\dao\SysUserTokenDao.
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\app\utils\JwtUtils.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\dao\SysLogDao.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\service\impl\SysMenuServiceImpl.java
+D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\entity\SysOrderEntity.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\service\SysCaptchaService.java
+D:\gulimall\renren-fast\src\main\java\io\renren\modules\sys\dao\SysOrderDao.java
 D:\gulimall\renren-fast\src\main\java\io\renren\common\utils\IPUtils.java
 D:\gulimall\renren-fast\src\main\java\io\renren\modules\job\service\impl\ScheduleJobServiceImpl.java
 D:\gulimall\renren-fast\src\main\java\io\renren\common\aspect\SysLogAspect.java
